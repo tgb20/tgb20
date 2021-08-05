@@ -7,13 +7,13 @@
 
 ---
 
-### Open-source Projects
+### 📖 Open-source Projects
 
 - [**Hermes**](https://github.com/tgb20/hermes)
 
 ---
 
-### Blog Posts
+### ⌨️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [360 Minecraft Pano Test](https://jacobbashista.com/360-pano-test/)
@@ -25,7 +25,7 @@
 
 ---
 
-### Youtube Videos
+### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [LEGO Robot Inventor Mecanum Drive with Gyroscope Demo](https://www.youtube.com/watch?v=fuX4eVji-vk)
@@ -36,8 +36,10 @@
 <!-- YOUTUBE:END -->
 
 ---
-
-![github stats](https://github-readme-stats.vercel.app/api?username=tgb20&show_icons=true)\
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tgb20&layout=compact)
+<details>
+<summary><b>📊 Stats</b></summary>
+<img src="https://github-readme-stats.vercel.app/api?username=tgb20&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgb20&layout=compact">
+</details>
 
 ---
