@@ -13,6 +13,13 @@
 
 ---
 
+### Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=tgb20&show_icons=true)\
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tgb20&layout=compact)
 
