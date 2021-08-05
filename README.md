@@ -16,6 +16,11 @@
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [360 Minecraft Pano Test](https://jacobbashista.com/360-pano-test/)
+- [Turn any Image into a Minecraft Skin](https://jacobbashista.com/turn-any-image-into-a-minecraft-skin/)
+- [Hermes](https://jacobbashista.com/hermes/)
+- [Puzzled Clues](https://jacobbashista.com/puzzled-clues/)
+- [Athena](https://jacobbashista.com/athena/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
