@@ -20,11 +20,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Turning Minecraft Structures into Models](https://www.youtube.com/watch?v=h8CTvYhisYQ)
 - [LEGO Robot Inventor Mecanum Drive with Gyroscope Demo](https://www.youtube.com/watch?v=fuX4eVji-vk)
 - [How to make edits on OpenStreetMap (Editing Roads and Buildings)](https://www.youtube.com/watch?v=H6DcbNGV0TE)
 - [Hermes Demo](https://www.youtube.com/watch?v=MuYF2eyRxBo)
 - [Night of the Living Dead (Colorized and up-scaled with AI)](https://www.youtube.com/watch?v=X6akk05yblc)
-- [Building a Skype Powered Robot [Archive 2014]](https://www.youtube.com/watch?v=0AnCygdy2ks)
 <!-- YOUTUBE:END -->
 
 ---
