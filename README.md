@@ -23,7 +23,7 @@
 - [Mapbox to Minecraft](https://www.youtube.com/watch?v=GOKlYJppsgo)
 - [Turning Minecraft Structures into Models](https://www.youtube.com/watch?v=h8CTvYhisYQ)
 - [LEGO Robot Inventor Mecanum Drive with Gyroscope Demo](https://www.youtube.com/watch?v=fuX4eVji-vk)
-- [How to make edits on OpenStreetMap (Editing Roads and Buildings)](https://www.youtube.com/watch?v=H6DcbNGV0TE)
+- [How to make edits on OpenStreetMap &lpar;Editing Roads and Buildings&rpar;](https://www.youtube.com/watch?v=H6DcbNGV0TE)
 - [Hermes Demo](https://www.youtube.com/watch?v=MuYF2eyRxBo)
 <!-- YOUTUBE:END -->
 
