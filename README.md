@@ -20,11 +20,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MRE Endpoints](https://www.youtube.com/watch?v=NjVAcoVBVFI)
 - [Soccer Robots for Everyone &lpar;NERD Summit 2020&rpar;](https://www.youtube.com/watch?v=u-lFwHSSJaQ)
 - [So I got a receipt printer](https://www.youtube.com/watch?v=efUqWBs0C6g)
 - [Mapbox to Minecraft](https://www.youtube.com/watch?v=GOKlYJppsgo)
 - [Turning Minecraft Structures into Models](https://www.youtube.com/watch?v=h8CTvYhisYQ)
-- [LEGO Robot Inventor Mecanum Drive with Gyroscope Demo](https://www.youtube.com/watch?v=fuX4eVji-vk)
 <!-- YOUTUBE:END -->
 
 ---
