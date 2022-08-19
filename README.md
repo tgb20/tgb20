@@ -20,7 +20,7 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [MRE Endpoints](https://www.youtube.com/watch?v=NjVAcoVBVFI)
+- [Customizing endpoints for AltspaceVR MREs](https://www.youtube.com/watch?v=NjVAcoVBVFI)
 - [Soccer Robots for Everyone &lpar;NERD Summit 2020&rpar;](https://www.youtube.com/watch?v=u-lFwHSSJaQ)
 - [So I got a receipt printer](https://www.youtube.com/watch?v=efUqWBs0C6g)
 - [Mapbox to Minecraft](https://www.youtube.com/watch?v=GOKlYJppsgo)
