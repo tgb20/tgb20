@@ -26,12 +26,3 @@
 - [Mapbox to Minecraft](https://www.youtube.com/watch?v=GOKlYJppsgo)
 - [Turning Minecraft Structures into Models](https://www.youtube.com/watch?v=h8CTvYhisYQ)
 <!-- YOUTUBE:END -->
-
----
-<details>
-<summary><b>📊 Stats</b></summary>
-<img src="https://github-readme-stats.vercel.app/api?username=tgb20&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgb20&layout=compact">
-</details>
-
----
