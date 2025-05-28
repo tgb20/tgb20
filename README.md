@@ -1,4 +1,4 @@
-## 👋 tgb20
+## 👋 Jacob Bashista
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-00aced?style=for-the-badge&logo=twitter)](https://twitter.com/jacobbashista)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/orangehaus)
