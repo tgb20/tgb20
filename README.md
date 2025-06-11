@@ -20,7 +20,7 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [So I got a receipt printer](https://www.youtube.com/shorts/efUqWBs0C6g)
+- [So I got a receipt printer](https://www.youtube.com/watch?v=efUqWBs0C6g)
 - [Mapbox to Minecraft](https://www.youtube.com/watch?v=GOKlYJppsgo)
 - [Turning Minecraft Structures into Models](https://www.youtube.com/watch?v=h8CTvYhisYQ)
 <!-- YOUTUBE:END -->
